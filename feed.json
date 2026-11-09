@@ -1,69 +1,69 @@
 {
- "updated": "2026-11-09T04:00+00:00",
+ "updated": "2026-11-09T11:00+00:00",
  "profile": "https://www.instagram.com/amierseoul/",
  "items": [
   {
-   "img": "img/1.webp?v=1abb817f",
+   "img": "img/1.webp?v=7bdd91a1",
+   "link": "https://www.instagram.com/p/DfhEZTGk69o/",
+   "type": "CAROUSEL_ALBUM",
+   "date": "2026-11-09",
+   "alt": "츄리닝, 밖에서 입어도 될까요? 👟"
+  },
+  {
+   "img": "img/2.webp?v=dd25d055",
+   "link": "https://www.instagram.com/reel/Dfg97vKhG3E/",
+   "type": "VIDEO",
+   "date": "2026-11-09",
+   "alt": "겨울 츄리닝은 안을 까봐야 돼요 🧥"
+  },
+  {
+   "img": "img/3.webp?v=1abb817f",
    "link": "https://www.instagram.com/p/DfefnA2E2CX/",
    "type": "CAROUSEL_ALBUM",
    "date": "2026-11-08",
    "alt": "패딩, 딱 맞게 입으면 덜 따뜻할 수 있어요 🧥"
   },
   {
-   "img": "img/2.webp?v=a06f5546",
+   "img": "img/4.webp?v=a06f5546",
    "link": "https://www.instagram.com/reel/Dfdy3FLkY3s/",
    "type": "VIDEO",
    "date": "2026-11-08",
    "alt": "패딩, 딱 맞게 입으면 덜 따뜻해요"
   },
   {
-   "img": "img/3.webp?v=c6f5eed6",
+   "img": "img/5.webp?v=c6f5eed6",
    "link": "https://www.instagram.com/p/Dfb60iJAXLP/",
    "type": "CAROUSEL_ALBUM",
    "date": "2026-11-07",
    "alt": "오늘 입동이에요. 겨울 신호는 생각보다 일찍 와요 🧥"
   },
   {
-   "img": "img/4.webp?v=101f2b35",
+   "img": "img/6.webp?v=101f2b35",
    "link": "https://www.instagram.com/reel/DfbOF0tEYwC/",
    "type": "VIDEO",
    "date": "2026-11-07",
    "alt": "오늘 입동, 패딩 꺼낼 때일까?"
   },
   {
-   "img": "img/5.webp?v=e0620cca",
+   "img": "img/7.webp?v=e0620cca",
    "link": "https://www.instagram.com/p/DfZWCKrH8X2/",
    "type": "CAROUSEL_ALBUM",
    "date": "2026-11-06",
    "alt": "로고도 요란한 광고도 없는데, 10년 만에 파리 무대에 선 브랜드가 있어요 🌅"
   },
   {
-   "img": "img/6.webp?v=c9bac845",
+   "img": "img/8.webp?v=c9bac845",
    "link": "https://www.instagram.com/reel/DfYpS5vkdyk/",
    "type": "VIDEO",
    "date": "2026-11-06",
    "alt": "오라리, 왜 조용히 유명해졌을까?"
   },
   {
-   "img": "img/7.webp?v=cd1ea34a",
+   "img": "img/9.webp?v=cd1ea34a",
    "link": "https://www.instagram.com/p/DfWxPpOD2ys/",
    "type": "CAROUSEL_ALBUM",
    "date": "2026-11-05",
    "alt": "습기를 만나면 열이 나는 섬유, 비스코스도 그래요 🔥"
-  },
-  {
-   "img": "img/8.webp?v=337c7a8f",
-   "link": "https://www.instagram.com/reel/DfWEd_dETlK/",
-   "type": "VIDEO",
-   "date": "2026-11-05",
-   "alt": "히트텍 원리, 비스코스 니트에도 있어요"
-  },
-  {
-   "img": "img/9.webp?v=74f00ac1",
-   "link": "https://www.instagram.com/p/DfUMbPxDzHG/",
-   "type": "CAROUSEL_ALBUM",
-   "date": "2026-11-04",
-   "alt": "\"머리로 열이 절반 빠진다\"는 말, 실제 연구에선 7~10%였어요 🧢"
   }
  ]
 }
